@@ -1,0 +1,5 @@
+* [Home Page](README.md)
+* [Course Infosheet](course-infosheet.md) 
+* [Chapter 01: Name](ch01-name/first-subchapter.md)
+* [Chapter 02: Name](ch02-name/first-subchapter.md)
+* [Chapter 03: Name](ch02-name/first-subchapter.md)
